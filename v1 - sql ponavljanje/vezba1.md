@@ -1,0 +1,1 @@
+# Vežba 1 - SQL uvod
