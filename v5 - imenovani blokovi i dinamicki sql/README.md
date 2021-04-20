@@ -1,4 +1,4 @@
-# Vežba 5 - 
+# Vežba 5 - Imenovani blokovi i dinamički SQL
 
 ## PL/SQL imenovani blokovi
 
